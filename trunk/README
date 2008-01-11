@@ -1,0 +1,13 @@
+CacheColumns
+============
+缓存SHOW FIELDS
+简介：http://mmm.javaeye.com/blog/155123
+
+根据这个 http://dev.rubyonrails.org/attachment/ticket/9046/cache_column_names.patch 改编：）
+
+Example
+=======
+NOP
+
+
+Copyright (c) 2008 [Martin martin.xus '#'.sub('#','@') gmail.com], released under the MIT license
